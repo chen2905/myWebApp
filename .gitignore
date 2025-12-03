@@ -8,3 +8,10 @@
 /obj/Debug/net9.0
 /.vs/myWebApp/FileContentIndex
 /obj/Release/net9.0
+.vs/myWebApp/v17/.wsuo
+.vs/myWebApp/v17/DocumentLayout.json
+obj/myWebApp.csproj.nuget.dgspec.json
+obj/myWebApp.csproj.nuget.g.props
+obj/myWebApp.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
